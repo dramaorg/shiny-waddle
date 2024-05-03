@@ -1,12 +1,19 @@
 {
   "name": "@dramaorg/shiny-waddle",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "",
   "main": "index.js",
   "author": "dramatinahj",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/psychic-couscous": "^1.1.0"
+    "@dramaorg/psychic-couscous": "^1.1.0",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "drop",
@@ -224,5 +231,5 @@
   "bugs": {
     "url": "https://github.com/dramaorg/shiny-waddle/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
