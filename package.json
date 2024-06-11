@@ -1,6 +1,6 @@
 {
   "name": "@dramaorg/shiny-waddle",
-  "version": "5.4.36",
+  "version": "5.4.37",
   "description": "",
   "main": "index.js",
   "author": "dramatinahj",
@@ -237,5 +237,5 @@
   "bugs": {
     "url": "https://github.com/dramaorg/shiny-waddle/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
